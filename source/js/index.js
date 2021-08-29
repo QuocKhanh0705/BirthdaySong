@@ -116,7 +116,7 @@ const app = {
             transform: 'rotate(360deg)'
         }], {
             duration: 10000,
-            interations: Infinity
+            interactions: Infinity,
         })
         cdThumbAnimate.pause(); // khi bat dau la dung.
 
