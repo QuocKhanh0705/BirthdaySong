@@ -24,56 +24,23 @@ const app = {
     isRepeat: false,
     // config: JSON.parse(localStorage.getItem(PLAYER_STORAGE_KEY)) || {},
     songs: [{
-            name: 'Yêu Rồi',
-            singer: 'Tino',
+            name: 'Happy Birthday To You',
+            singer: 'KTM',
             path: './assets/music/song1.mp3',
-            image: './assets/img/Soo1.jpg'
+            image: './assets/img/Vu1.jpg'
         },
         {
-            name: 'Cưới Nhau Nhé (Yes I Do)',
-            singer: 'Hiền Hồ/ Bùi Anh Tuấn',
+            name: 'Là Con Gái Thật Tuyệt',
+            singer: 'Khởi My',
             path: './assets/music/song2.mp3',
-            image: './assets/img/Soo2.jpg'
+            image: './assets/img/Vu2.jpg'
         },
         {
-            name: 'Cầu Hôn',
-            singer: 'Văn Mai Hương',
+            name: 'Sắc Môi Em Hồng',
+            singer: 'Minh Hằng',
             path: './assets/music/song3.mp3',
-            image: './assets/img/Soo3.jpg'
-        },
-        {
-            name: 'You Are The Reason',
-            singer: 'Calum Scott',
-            path: './assets/music/song4.mp3',
-            image: './assets/img/Soo4.jpg'
-        }, {
-            name: 'I Love You 3000',
-            singer: 'Jackson',
-            path: './assets/music/song5.mp3',
-            image: './assets/img/Soo5.jpg'
-        },
-        {
-            name: 'Beautiful In White',
-            singer: 'Shane Filan',
-            path: './assets/music/song6.mp3',
-            image: './assets/img/Soo6.jpg'
-        }, {
-            name: 'Everything I Need',
-            singer: 'Skylar Grey',
-            path: './assets/music/song7.mp3',
-            image: './assets/img/Soo7.jpg'
-        },
-        {
-            name: 'Nothing\'s Change My Love For You',
-            singer: 'Westlife',
-            path: './assets/music/song8.mp3',
-            image: './assets/img/Soo8.jpg'
-        }, {
-            name: 'When You Tell Me That You Love Me',
-            singer: 'Westlife',
-            path: './assets/music/song9.mp3',
-            image: './assets/img/Soo9.jpg'
-        },
+            image: './assets/img/Vu3.jpg'
+        }, ,
     ],
     // setConfig: function(key, value) {
     //     this.config[key] = value;
