@@ -39,7 +39,7 @@ const app = {
             name: 'Em Ơi Em Đâu Rồi',
             singer: 'Chu Bin',
             path: './assets/music/song3.mp3',
-            image: './assets/img/Vu3.jpg'
+            image: './assets/img/An3.jpg'
         },
         {
             name: 'Nợ Yêu Mashup',
