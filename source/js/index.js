@@ -27,20 +27,26 @@ const app = {
             name: 'Happy Birthday To You',
             singer: 'KTM',
             path: './assets/music/song1.mp3',
-            image: './assets/img/Vu1.jpg'
+            image: './assets/img/An1.jpg'
         },
         {
-            name: 'Là Con Gái Thật Tuyệt',
-            singer: 'Khởi My',
+            name: 'Chẳng Ai Yêu Mãi Một Người',
+            singer: 'NB3 Hoài Bảo, Đông Đặng',
             path: './assets/music/song2.mp3',
-            image: './assets/img/Vu2.jpg'
+            image: './assets/img/An2.jpg'
         },
         {
-            name: 'Sắc Môi Em Hồng',
-            singer: 'Minh Hằng',
+            name: 'Em Ơi Em Đâu Rồi',
+            singer: 'Chu Bin',
             path: './assets/music/song3.mp3',
             image: './assets/img/Vu3.jpg'
-        }, ,
+        },
+        {
+            name: 'Nợ Yêu Mashup',
+            singer: 'Rô Ti',
+            path: './assets/music/song4.mp3',
+            image: './assets/img/An1.jpg'
+        },
     ],
     // setConfig: function(key, value) {
     //     this.config[key] = value;
